@@ -6,7 +6,8 @@
 ### lipu mi:
 
 mi jan pi kama sona pali lipu. mi wile pali lipu intanet.
-### Мои навыки:
+
+### mi sona:
 
 * **toki pi pali lipu:** `Python`, `JavaScript`
 * **lipu pali e lipu** `Angular`, `Node.js`
