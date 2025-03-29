@@ -1,4 +1,3 @@
-- [stuff](https://namemc.com/profile/Notwinner.1)
 # pona! 👋 mi jan Notwinner.
 
 
